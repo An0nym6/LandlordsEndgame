@@ -38,4 +38,4 @@
 ![残局第 25 关开局](https://raw.githubusercontent.com/An0nym6/Images/master/blog%20images/LandlordsEndGame/1.png)
 ![残局第 25 关结束](https://raw.githubusercontent.com/An0nym6/Images/master/blog%20images/LandlordsEndGame/2.png)
 ![残局第 25 关解法](https://raw.githubusercontent.com/An0nym6/Images/master/blog%20images/LandlordsEndGame/3.png)
-
+![残局全通关](https://raw.githubusercontent.com/An0nym6/Images/master/blog%20images/LandlordsEndGame/4.png)
