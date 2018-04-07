@@ -40,7 +40,7 @@ def getSeq(cards, length, size, num):
                 (len(seq) != 0 and seq[-1] + 1 == card and card < 12 and cards.count(card) >= num)):
                 seq = seq + [card] * num
             else:
-                seq = []
+                seq = [card]
             if len(seq) == length * num:
                 pattern = -1
                 if num == 1:
